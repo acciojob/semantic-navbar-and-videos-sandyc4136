@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+.random {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .R1{
+    width: fit-content;
+  }
